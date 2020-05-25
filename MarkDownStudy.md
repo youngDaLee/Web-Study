@@ -200,3 +200,20 @@ __double underscores__
 ![Alt text](https://camo.githubusercontent.com/202c9ae1d457d6109be6c4cf13db9cac5fd708a6/687474703a2f2f6366696c65362e75662e746973746f72792e636f6d2f696d6167652f32343236453634363534334339423435333243374230)
 
 되나?
+된다...감격...
+
+사이즈 조절 ```<img width=""height="></img>```이용
+
+```
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+```
+<img src="https://camo.githubusercontent.com/202c9ae1d457d6109be6c4cf13db9cac5fd708a6/687474703a2f2f6366696c65362e75662e746973746f72792e636f6d2f696d6167652f32343236453634363534334339423435333243374230" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="https://camo.githubusercontent.com/202c9ae1d457d6109be6c4cf13db9cac5fd708a6/687474703a2f2f6366696c65362e75662e746973746f72792e636f6d2f696d6167652f32343236453634363534334339423435333243374230" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+
+1.9. 줄바꿈
+---
+3칸 이상 띄어쓰기 ```( )``` 하면 줄이 바뀜
+
+- 줄 바꿈 위해서는 이렇게    3칸 이상 띄어쓰기 해야 한다.
